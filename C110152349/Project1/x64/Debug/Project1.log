@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+E:\TOOL\RPG\test\C110152349\Project1\Project1.cpp(309): warning C4715: 'in': 不是所有控制路徑都傳回值
+E:\TOOL\RPG\test\C110152349\Project1\Project1.cpp(1788): warning C4715: 'mapRW': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> E:\TOOL\RPG\test\C110152349\x64\Debug\Project1.exe
